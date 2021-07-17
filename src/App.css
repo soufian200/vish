@@ -247,6 +247,13 @@ h1.heading {
   color: #fff;
 }
 
+
+/* 
+* Footer Styling
+ */
+div.content#footer{
+  padding-bottom: 1.5rem;
+}
 footer {
   color: white;
   display: flex;
@@ -283,7 +290,6 @@ footer .field input.subscribe-input {
 }
 footer .field button {
   background-color: transparent;
-
   padding: 10px 20px;
   border: solid 2px #b22454;
   color: white;

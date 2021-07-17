@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 
 export default function Footer() {
   return (
-    <div className='content' id='pricing'>
+    <div className='content' id='footer'>
       <div className='container'>
         <footer>
           <h2 className='heading'>
