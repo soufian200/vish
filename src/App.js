@@ -5,6 +5,7 @@ import Home from "./pages/Home";
 import Signup from "./pages/Signup";
 
 function App() {
+  return "welcome to lavish"
   return (
     <BrowserRouter>
       <Switch>
